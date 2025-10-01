@@ -32,7 +32,8 @@ A solução final pode ser usada em análises de dados, criação de relatórios ou si
 ### Passos para Execução
 1.  **Clone o repositório:**
     ```bash
-    git clone 
+    git clone https://github.com/luisveras-dev/Coletor-de-dados---imdb-scraper.git
+    cd Coletor-de-dados---imdb-scraper
     ```
 
 2.  **Crie e ative um ambiente virtual:**
